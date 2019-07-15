@@ -38,14 +38,14 @@ hero_media = "2020-Conf-600x600.jpg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://web.cvent.com/event/36ebe042-0113-44f1-8e36-b9bc5d0733bf/summary"
+  url = "http://rstd.io/conf"
   label = "Register Now"
   icon_pack = ""
   icon = ""
   
 [cta_alt]
   url = "about"
-  label = "Find out more"
+  label = "About this workshop"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
@@ -57,4 +57,4 @@ A two-day workshop to give you hands-on experience working with data across R, E
 + data import and export, 
 + basic wrangling, 
 + visualization, and 
-+ reporting with RMarkdown. 
++ reporting with R Markdown. 
