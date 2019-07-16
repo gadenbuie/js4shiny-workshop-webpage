@@ -29,5 +29,13 @@ subtitle = "This workshop will be appropriate for attendees who answer yes to th
   icon_pack = "fas"
   name = ""
   description = "Are you new to data analysis, and looking for a good place to get started?"
+  
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["6em", "0", "0", "0"]
+
+[advanced]
+  # Custom CSS. 
+  css_style = "margin-top: -1em !important;"
 
 +++

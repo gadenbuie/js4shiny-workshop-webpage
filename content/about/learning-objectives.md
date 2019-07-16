@@ -37,11 +37,11 @@ subtitle = "[ADD YOUR LEARNING OBJECTIVES HERE USING MARKDOWN]"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["6em", "0", "10em", "0"]
 
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "margin-top: -1em !important;"
  
  # CSS class.
  css_class = ""

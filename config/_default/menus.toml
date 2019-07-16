@@ -11,7 +11,7 @@
   
 [[main]]
   name = "Details"
-  url = "about#details"
+  url = "about#conf"
   weight = 10
   parent = "about"
 
