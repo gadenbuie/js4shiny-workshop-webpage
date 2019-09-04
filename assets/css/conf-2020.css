@@ -73,3 +73,12 @@ a.hero-cta-alt:hover {
 .wg-hero .btn {
   color: white;
 }
+
+/* code */
+pre {
+	font-size: 1rem;
+}
+
+table {
+	font-size: .9rem;
+}
