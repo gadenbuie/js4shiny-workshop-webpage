@@ -5,6 +5,7 @@
 blogdown
 public
 resources
+!content/resources
 .DS_Store
 Thumbs.db
 .history
