@@ -8,7 +8,12 @@
 
 /* change dark headers and body text color */
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   color: #404040;
 }
 
@@ -22,7 +27,7 @@ body {
 
 /* fix padding of profile description */
 
-section#profile-page.pt-5 div.container div.row div.col-12.col-lg-8{
+section#profile-page.pt-5 div.container div.row div.col-12.col-lg-8 {
   padding-top: 30px !important;
 }
 
@@ -39,7 +44,7 @@ section#profile-page.pt-5 div.container div.row div.col-12.col-lg-8{
 }
 
 #navbar-main {
-    box-shadow: none;
+  box-shadow: none;
 }
 
 
@@ -76,9 +81,17 @@ a.hero-cta-alt:hover {
 
 /* code */
 pre {
-	font-size: 1rem;
+  font-size: 1rem;
 }
 
 table {
-	font-size: .9rem;
+  font-size: .9rem;
+}
+
+pre code {
+  background-color: transparent;
+}
+
+.hljs {
+  background-color: transparent !important;
 }

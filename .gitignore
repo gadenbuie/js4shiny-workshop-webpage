@@ -7,3 +7,5 @@ public
 resources
 .DS_Store
 Thumbs.db
+.history
+.vscode

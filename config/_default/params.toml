@@ -4,7 +4,7 @@
 # Color theme.
 #   Choose from:
 #   `conf_2020`, `conf1`, `conf2`, `conf3`, or `conf4`.
-color_theme = "conf_2020"
+color_theme = "confjs"
 
 # Enable users to switch between day and night mode?
 day_night = false
@@ -23,13 +23,13 @@ twitter = "rstudio"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo = "2020-logo.png"
+#logo = "2020-logo.png"
 
 # Enable global source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
-highlight = true
-# highlight_languages = ["r"]  # Add support for highlighting additional languages
-# highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
+highlight = false
+highlight_languages = ["r", "javascript", "bash", "json", "yaml"]  # Add support for highlighting additional languages
+highlight_style = "default"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
 
 # Enable global LaTeX math rendering?
 #   If false, you can enable it locally on a per page basis.
@@ -70,6 +70,7 @@ appointment_url = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "#rstudioconf", link = "https://twitter.com/hashtag/rstudioconf"},
+  {icon = "twitter", icon_pack = "fab", name = "#js4shiny", link = "https://twitter.com/hashtag/js4shiny"},
   # {icon = "github", icon_pack = "fab", name = "Submit an issue", link = "https://github.com/rstudio-conf-2020/workshop-template-blogdown/issues"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -105,7 +106,7 @@ zoom = 14
 #   E.g. To load `/assets/css/custom.css`, set `plugins_css = ["custom"]`.
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
 
-plugins_css = ["conf-2020"]
+plugins_css = ["conf-2020", "_variables-fonts", "_variables", "code", "table", "utility", "custom"]
 plugins_js  = []
 
 ############################
