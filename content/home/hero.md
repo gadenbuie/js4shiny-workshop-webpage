@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "R for Excel Users"
+title = "JavaScript for Shiny Users"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "2020-Conf-600x600.jpg"
@@ -18,18 +18,18 @@ hero_media = "2020-Conf-600x600.jpg"
 
   # Background color.
   # color = "white"
-  
+
   # Background gradient.
-  # gradient_start = "#4bb4e3"
-  # gradient_end = "#2b94c3"
-  
+  # gradient_start = "#75AADB"
+  # gradient_end = "#FFFFFF"
+
   # Background image.
   # image = ""  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   text_color_light = false
-  
+
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["100px", "0", "100px", "0"]
@@ -42,19 +42,19 @@ hero_media = "2020-Conf-600x600.jpg"
   label = "Register Now"
   icon_pack = ""
   icon = ""
-  
+
 [cta_alt]
   url = "about"
   label = "About this workshop"
 
 # Note. An optional note to show underneath the links.
-[cta_note]
-  label = 'Early Bird discount ends August 31'
+#[cta_note]
+#  label = 'Early Bird discount ends August 31'
 +++
 
-A two-day workshop to give you hands-on experience working with data across R, Excel, and Google Sheets focusing on: 
+A two-day workshop to get you up and running with JavaScript
+in Shiny and interactive R Markdown documents.
 
-+ data import and export, 
-+ basic wrangling, 
-+ visualization, and 
-+ reporting with R Markdown. 
+<center>
+<img src="img/js4shiny-logo.png" style="height:225px" />
+</center>

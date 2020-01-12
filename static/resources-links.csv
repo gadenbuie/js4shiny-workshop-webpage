@@ -1,0 +1,428 @@
+text,original_url,group,slug,title,description
+,https://shiny.rstudio.com/articles/js-send-message.html,shiny,"shiny-send-message
+",Sending data from client to server and back using shiny,
+,https://bookdown.org/yihui/rmarkdown/htmlwidgets-advanced.html,htmlwidgets,htmlwidgets-rmarkdown-book,R Markdown Advanced Topics,
+,https://justgage.com/,"jslib
+",justgage,JustGage,
+,https://deanattali.com/blog/htmlwidgets-tips/#shinyMode,htmlwidgets,"dean-attali-htmlwidgets-tips
+",How to write a useful htmlwidgets in R: tips and walk-through a real example,
+CSS BEM Overview,https://css-tricks.com/bem-101/,css,css-tricks-bem,CSS Tricks - BEM 101,
+<https://ryouready.wordpress.com/2013/11/20/sending-data-from-client-to-server-and-back-using-shiny/>,https://ryouready.wordpress.com/2013/11/20/sending-data-from-client-to-server-and-back-using-shiny/,shiny,post-send-data-shiny,Sending data from client to server and back using shiny,
+"How to improve the accessibility of your web apps - CLEVER°FRANKE - Medium
+<https://medium.com/clever-franke/how-to-improve-the-accessibility-of-your-web-apps-79d0a5cb9c0e>",https://medium.com/clever-franke/how-to-improve-the-accessibility-of-your-web-apps-79d0a5cb9c0e,accessibility,post-improve-accessibility,How to improve the accessibility of your web apps,
+<https://github.com/AllThingsSmitty/css-protips#use-svg-for-icons>,https://github.com/AllThingsSmitty/css-protips#use-svg-for-icons,css,css-pro-tips,AllThingsSmitty/css-protips,
+<https://scrimba.com/g/ges6>,https://scrimba.com/g/ges6,es6,scrimba-es6-tutorial,ES6 Tutorial: Learn Modern JavaScript | Scrimba,
+<http://keycode.info/>,http://keycode.info/,app,js-keycode,JavaScript Event KeyCodes,
+<https://github.com/hobochild/js-fire?utm_source=share&amp;utm_medium=ios_app>,https://github.com/hobochild/js-fire,"jslib
+",js-fire,hobochild/js-fire,
+<https://github.com/ricklupton/d3-sankey-diagram>,https://github.com/ricklupton/d3-sankey-diagram,d3,d3-sankey-diagram,ricklupton/d3-sankey-diagram,
+<https://bookdown.org/hadrien/how_to_build_a_shiny_app_from_scratch/#shiny-timeline>,https://bookdown.org/hadrien/how_to_build_a_shiny_app_from_scratch/#shiny-timeline,shiny,book-build-shiny-app-from-scratch,How to Build a Shiny Application from Scratch,
+<https://pepsized.com/on-how-i-approach-teaching-css-codepen-quizzes-and-playing-cards/>,https://pepsized.com/on-how-i-approach-teaching-css-codepen-quizzes-and-playing-cards/,css,"how-i-approach-teaching-css
+","On How I Approach Teaching CSS, CodePen Quizzes and Playing Cards",
+<https://alligator.io/js/drag-and-drop-vanilla-js/>,https://alligator.io/js/drag-and-drop-vanilla-js/,js,js-vanilla-drag-drop,Drag &amp; Drop Elements with Vanilla JavaScript and HTML,
+<https://wesbos.com/javascript-modules/>,https://wesbos.com/javascript-modules/,js,js-modules-npm,An Intro To Using npm and ES6 Modules for Front End Development,
+<https://bundlephobia.com/>,https://bundlephobia.com/,js,bundlephobia,BundlePhobia,
+<https://www.npmjs.com/package/movement-data-toolkit>,https://www.npmjs.com/package/movement-data-toolkit,node,,movement-data-toolkit,
+<https://stackblitz.com/>,https://stackblitz.com/,app,stackblitz,The online code editor for web apps. Powered by Visual Studio Code. - StackBlitz,
+"CSS Specificity - DEV Community :female-technologist::male-technologist:
+<https://dev.to/emmawedekind/css-specificity-1kca>",https://dev.to/emmawedekind/css-specificity-1kca,css,,CSS Specificity,
+Document your Javascript code with JSDoc <https://dev.to/paulasantamaria/document-your-javascript-code-with-jsdoc-2fbf>,https://dev.to/paulasantamaria/document-your-javascript-code-with-jsdoc-2fbf,js,,Document your Javascript code with JSDoc,
+<https://feathericons.com/>,https://feathericons.com/,svg,,Feather – Simply beautiful open source icons,
+<https://pm2.keymetrics.io/>,https://pm2.keymetrics.io/,node,,PM2 ·,
+<https://a11yproject.com/checklist/>,https://a11yproject.com/checklist/,accessibility,,Checklist,
+embed svg <https://stackoverflow.com/a/4482962>,https://stackoverflow.com/a/4482962,svg,,"Do I use , , or  for SVG files?",
+<https://data.world/dataremixed/125-us-cities-ranked-2019>,https://data.world/dataremixed/125-us-cities-ranked-2019?utm_campaign=data_digest&amp;utm_source=email&amp;utm_medium=email&amp;utm_content=190913&amp;_hsenc=p2ANqtz--KTiTh_gEk9tnVuQUvHgTgRZ3WgUzmtbMSQ1n2Vwigstu2Bxc8o9zSbzph6OvuQ62iEpJo3-WOGl_LnIO0UwAw7PnfzQ&amp;_hsmi=76816025,data,,"125 US Cities Ranked, 2019 - dataset by dataremixed",
+"<https://speakerdeck.com/alicebartlett/ft-accessibility-101>
+<https://speakerdeck.com/alicebartlett/ft-accessibility-101>",https://speakerdeck.com/alicebartlett/ft-accessibility-101,accessibility,,FT Accessibility 101,
+<https://github.com/11ty/eleventy>,https://github.com/11ty/eleventy,framework,,11ty/eleventy,
+<https://medium.com/codingthesmartway-com-blog/getting-started-with-parcel-197eb85a2c8c>,https://medium.com/codingthesmartway-com-blog/getting-started-with-parcel-197eb85a2c8c,"bundle
+",,Getting Started With Parcel,
+<https://flaviocopes.com/npm-fix-missing-write-access-error/>,https://flaviocopes.com/npm-fix-missing-write-access-error/,node,,"How to fix the ""Missing write access"" error when using npm",
+<https://javascriptweekly.com/link/69646/rss>,https://javascriptweekly.com/link/69646/rss,js,,5 Handy Applications of JavaScript Array.from(),
+<https://javascriptweekly.com/link/69651/rss>,https://javascriptweekly.com/link/69651/rss,js,,Simplify your JavaScript – Use .some() and .find(),
+"CSS Shapes
+<https://sharkcoder.com/visual/shapes>",https://sharkcoder.com/visual/shapes ,css,,CSS Shapes,
+Fixing layout instability <https://dev.to/chromiumdev/fixing-layout-instability-176c>,https://dev.to/chromiumdev/fixing-layout-instability-176c,css,,Fixing layout instability,
+<https://daybrush.com/scenejs/>,https://daybrush.com/scenejs/ ,"jslib
+",scenejs,Scene.js is a JavaScript Animation Library,
+<https://a11yproject.com/>,https://a11yproject.com/ ,accessibility,a11y,The A11Y Project,
+<https://hoard.fyi>,https://hoard.fyi ,learn,hoard-fyi,"Hoard.fyi | Curated tools &amp; resources for web designers, developers &amp; makers – in a nutshell",
+<https://medium.com/@aniboaz/animate-svg-4fa7dd00e860>,https://medium.com/@aniboaz/animate-svg-4fa7dd00e860,svg,,How I stopped worrying and learned to animate SVG,
+<https://github.com/kentcdodds/10-practical-js-features>,https://github.com/kentcdodds/10-practical-js-features,"js
+",,kentcdodds/10-practical-js-features,
+<https://github.com/ImmoweltGroup/workshop-js-fundamentals>,https://github.com/ImmoweltGroup/workshop-js-fundamentals,js,,ImmoweltGroup/workshop-js-fundamentals,
+"Simulate color blindness in Firefox:
+- Accessibility Inspector
+- `about:config` and enable `gfx.webrender.all` and restart Firefox
+<https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector/Simulation>",https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector/Simulation,accessibility,,Simulation,
+"Frontend Developer – Roadmaps to becoming a Modern Developer – roadmap.sh
+<https://roadmap.sh/frontend>",https://roadmap.sh/frontend,learn,,Roadmaps to becoming a Modern Developer – roadmap.sh,
+<https://github.com/pikapkg/web>,https://github.com/pikapkg/web,npm,,pikapkg/web,
+<https://open-wc.org/developing/es-dev-server.html>,https://open-wc.org/developing/es-dev-server.html,"web-components
+",,Open Web Components,
+"styled-components
+<https://www.styled-components.com/>",https://www.styled-components.com/,"web-components
+",,styled-components,
+<https://johnpapa.net/node-and-npm-without-sudo/>,https://johnpapa.net/node-and-npm-without-sudo/,npm,,Node and npm without sudo,
+<http://www.cssflow.com/>,http://www.cssflow.com/,css,,CSSFlow,
+<https://generated.photos/>,https://generated.photos/,design,,"100,000 AI-Generated Faces – Free to Download!",
+<https://alligator.io/css/align-justify/>,https://alligator.io/css/align-justify/,css,,CSS Grid: Justification and Alignment,
+<https://t.co/XedUn51Lvd?amp=1&amp;ssr=true>,https://egghead.io/courses/the-beginner-s-guide-to-figma,design,,The Beginner's Guide to Figma,
+Two ways to create an image with a colour overlay in CSS <https://dev.to/ellen_dev/two-ways-to-achieve-an-image-colour-overlay-with-css-eio>,https://dev.to/ellen_dev/two-ways-to-achieve-an-image-colour-overlay-with-css-eio,css,,Two ways to create an image with a colour overlay in CSS,
+"Build a PWA Using Only Vanilla JavaScript - Level Up Coding
+<https://levelup.gitconnected.com/build-a-pwa-using-only-vanilla-javascript-bdf1eee6f37a>",https://levelup.gitconnected.com/build-a-pwa-using-only-vanilla-javascript-bdf1eee6f37a,pwa,,Build a PWA Using Only Vanilla JavaScript,
+<https://internetingishard.com/>,https://internetingishard.com/,learn,,Interneting Is Hard,
+"dblarremore/webweb · GitHub
+<https://github.com/dblarremore/webweb?files=1>",https://github.com/dblarremore/webweb?files=1,idea,,dblarremore/webweb,
+"Get Started with Debugging JavaScript in Chrome DevTools
+<https://developers.google.com/web/tools/chrome-devtools/javascript>",https://developers.google.com/web/tools/chrome-devtools/javascript,browser,,Get Started with Debugging JavaScript in Chrome DevTools,
+<https://github.com/HackYourFuture/fundamentals>,https://github.com/HackYourFuture/fundamentals,learn,,HackYourFuture/fundamentals,
+<https://www.deque.com/axe/>,https://www.deque.com/axe/,accessibility,,axe: Accessibility for Development Teams,
+<https://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/>,https://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/,learn,,HTML semantics cheat sheet · Web Dev Topics · Learn the Web,
+<https://loremflickr.com/>,https://loremflickr.com/,design,,LoremFlickr.com,
+<https://www.danvega.dev/blog/2019/03/14/find-max-array-objects-javascript/?source=post_page-----2511115f8621---------------------->,https://www.danvega.dev/blog/2019/03/14/find-max-array-objects-javascript/,js,,How to find the max id in an array of objects in JavaScript,
+<https://www.w3resource.com/javascript-exercises/javascript-math-exercise-7.php>,https://www.w3resource.com/javascript-exercises/javascript-math-exercise-7.php,js,,JavaScript Math: Find the lowest value in an array  - w3resource,
+<https://stackoverflow.com/a/39202849>,https://stackoverflow.com/a/39202849,js,,"Difference between sort(), sort(function(a,b){return a-b;}); and sort(function(a,b){...})",
+"GitHub - JohnCoene/countup: :stopwatch: countup.js R htmlwidget
+<https://github.com/JohnCoene/countup>",https://github.com/JohnCoene/countup,htmlwidgets,,JohnCoene/countup,
+<http://ianlunn.github.io/Hover/>,http://ianlunn.github.io/Hover/,css,,Hover.css - A collection of CSS3 powered hover effects,
+"The Beginner’s Guide to Chart.js - Stanley Ulili
+<https://www.stanleyulili.com/javascript/beginner-guide-to-chartjs/?utm_source=hackernewsletter&amp;utm_medium=email&amp;utm_term=code>",https://www.stanleyulili.com/javascript/beginner-guide-to-chartjs/?utm_source=hackernewsletter&amp;utm_medium=email&amp;utm_term=code,"jslib
+",,The Beginner’s Guide to Chart.js,
+<https://marcozehe.wordpress.com/2015/12/14/the-web-accessibility-basics/>,https://marcozehe.wordpress.com/2015/12/14/the-web-accessibility-basics/,accessibility,,The web accessibility basics,
+<https://valentinog.us18.list-manage.com/track/click?u=c8069c95aac6dc683e656008e&amp;id=3a9de85848&amp;e=54f5eb4541>,https://www.valentinog.com/blog/jsdoc/,js,,Code Documentation for JavaScript With JSDoc: An Introduction,
+<https://the-pudding.github.io/falsetto-site/>,https://the-pudding.github.io/falsetto-site/,data,,Title Case Hed Goes Here,
+<https://ourworldindata.org/>,https://ourworldindata.org/,data,,Our World in Data,
+<https://codepen.io/bradleytaunt/pen/mZdzmZ>,https://codepen.io/bradleytaunt/pen/mZdzmZ,flexbox-grid,,Responsive Tables #2.5: Flexbox,
+<https://tympanus.net/Development/SidebarTransitions/>,https://tympanus.net/Development/SidebarTransitions/,design,,Sidebar Transitions,
+<https://tympanus.net/Tutorials/PseudoElementsImageCaptions/>,https://tympanus.net/Tutorials/PseudoElementsImageCaptions/,design,,Image Captions with Pseudo-Elements,
+<https://tympanus.net/Tutorials/ExpandingSearchBar/>,https://tympanus.net/Tutorials/ExpandingSearchBar/,design,,Expanding Search Bar Deconstructed,
+<https://sbstjn.com/timesheet.js/>,https://sbstjn.com/timesheet.js/,"jslib
+",,"Timesheet.js - Beautiful time tables with HTML, JavaScript and CSS …",
+<https://craig.is/killing/mice>,https://craig.is/killing/mice,"jslib
+",,Mousetrap - Keyboard shortcuts in Javascript,
+<https://listjs.com/>,https://listjs.com/,"jslib
+",,List.js,
+<https://clipboardjs.com/>,https://clipboardjs.com/,"jslib
+",,clipboard.js,
+"Timeline
+<http://timeline.knightlab.com/#make>",http://timeline.knightlab.com/#make,"jslib
+",,Timeline JS,
+"TOAST UI :: Make Your Web Delicious! | TOAST UI :: Make Your Web Delicious!
+<https://ui.toast.com/tui-chart/>",https://ui.toast.com/tui-chart/,"jslib
+",,TOAST UI :: Make Your Web Delicious!,
+<http://jargon.js.org/>,http://jargon.js.org/,learn,,Simplified JavaScript Jargon,
+"Britecharts - D3.js based charting library of reusable components
+<https://eventbrite.github.io/britecharts/>",https://eventbrite.github.io/britecharts/,"jslib
+",,"Britecharts, a D3.js based charting library of reusable components",
+<https://www.reddit.com/r/javascript/comments/89s0vr/the_vanilla_javascript_component_list/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf>,https://www.reddit.com/r/javascript/comments/89s0vr/the_vanilla_javascript_component_list/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf,"jslib
+",,The Vanilla JavaScript component list,
+<https://t.co/mURwwPbJvC?amp=1&amp;ssr=true>,https://medium.com/javascript-in-plain-english/svelte-vs-react-first-impression-1ce5d3ee6889,framework,,Svelte vs React: First impressions,
+<https://haltu.github.io/muuri/>,https://haltu.github.io/muuri/,"jslib
+",,"Muuri - Responsive, sortable, filterable and draggable grid layouts",
+<https://codepen.io/grrrck/pen/NWWXrjV>,https://codepen.io/grrrck/pen/NWWXrjV,demo,,pane stretch,
+"Finally Understand the JavaScript Reduce Method ← <http://Alligator.io|Alligator.io>
+<https://alligator.io/js/finally-understand-reduce/>",https://alligator.io/js/finally-understand-reduce/,"js
+",,Finally Understand the JavaScript Reduce Method,
+"Use JavaScript visualization libraries at the R console
+<https://rstudio.com/resources/webinars/creating-javascript-data-visualizations-in-r/>",https://rstudio.com/resources/webinars/creating-javascript-data-visualizations-in-r/,htmlwidgets,,Use JavaScript visualization libraries at the R console,
+"How can I include the javascript and css for html widgets such as Leaflet when using a custom shiny UI? - shiny - RStudio Community
+<https://community.rstudio.com/t/how-can-i-include-the-javascript-and-css-for-html-widgets-such-as-leaflet-when-using-a-custom-shiny-ui/31637>",https://community.rstudio.com/t/how-can-i-include-the-javascript-and-css-for-html-widgets-such-as-leaflet-when-using-a-custom-shiny-ui/31637,htmlwidgets,,How can I include the javascript and css for html widgets such as Leaflet when using a custom shiny UI?,
+"Passing module namespace to embedded javascript function - shiny - RStudio Community
+<https://community.rstudio.com/t/passing-module-namespace-to-embedded-javascript-function/26988>",https://community.rstudio.com/t/passing-module-namespace-to-embedded-javascript-function/26988,shiny,,Passing module namespace to embedded javascript function,
+"Shiny:sessioninitialized : Javascript on startup - shiny - RStudio Community
+<https://community.rstudio.com/t/shiny-sessioninitialized-javascript-on-startup/13505>",https://community.rstudio.com/t/shiny-sessioninitialized-javascript-on-startup/13505,shiny,,Shiny:sessioninitialized : Javascript on startup,
+"Document new shiny.autoload.r option on ?shinyOptions · Issue #2618 · rstudio/shiny
+<https://github.com/rstudio/shiny/issues/2618>",https://github.com/rstudio/shiny/issues/2618,shiny,,Document new shiny.autoload.r option on ?shinyOptions · Issue #2618 · rstudio/shiny,
+<https://hacks.mozilla.org/2019/10/faster-layouts-with-css-grid-and-subgrid/?utm_source=hackernewsletter&amp;utm_medium=email&amp;utm_term=watching&amp;mc_cid=7d90813c88&amp;mc_eid=fba67a8451>,https://hacks.mozilla.org/2019/10/faster-layouts-with-css-grid-and-subgrid,"flexbox-grid
+",,Faster Layouts with CSS Grid (and Subgrid!) – Mozilla Hacks - the Web developer blog,
+<https://www.reddit.com/r/reactjs/comments/dr2l4i/using_react_hooks_with_d3_06_responsive_chart/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf>,https://www.reddit.com/r/reactjs/comments/dr2l4i/using_react_hooks_with_d3_06_responsive_chart/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf,framework,,Using React (Hooks) with D3 – [06] Responsive Chart Components with ResizeObserver,
+<https://www.reddit.com/r/learnjavascript/comments/dr378w/build_a_workout_diary_app_with_react_3_create_a/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf>,https://www.reddit.com/r/learnjavascript/comments/dr378w/build_a_workout_diary_app_with_react_3_create_a/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf,idea,,Build a Workout Diary App with React #3 | Create a new workout session,
+"shiny/shinyapp.js at e3c15493a2f79996314f9d60d6f4c479f2713b9e · rstudio/shiny
+<https://github.com/rstudio/shiny/blob/e3c15493a2f79996314f9d60d6f4c479f2713b9e/srcjs/shinyapp.js#L571>",https://github.com/rstudio/shiny/blob/e3c15493a2f79996314f9d60d6f4c479f2713b9e/srcjs/shinyapp.js#L571,shiny,,rstudio/shiny,
+<https://placeimg.com/>,https://placeimg.com/,design,,PlaceIMG | Easy FPO and Dummy Images for Any Project,
+<https://musicalwebdev.com/js-resources/>,https://musicalwebdev.com/js-resources/,learn,,Musical Web Dev | JS Resources,
+<https://github.com/StephenHesperus/remark-hook/blob/master/tile-view.js>,https://github.com/StephenHesperus/remark-hook/blob/master/tile-view.js,framework,,StephenHesperus/remark-hook,
+FlatUI Color Palettes,https://flatuicolors.com/,design,,FlatUI Color Palettes,
+Happy Hues,https://www.happyhues.co,design,,"Happy Hues
+",
+"CreativeJS | The very best of creative JavaScript and HTML5
+<http://creativejs.com/index.html>",http://creativejs.com/index.html,learn,,CreativeJS,
+<http://www.sitepoint.com/css3-animation-javascript-event-handlers/>,http://www.sitepoint.com/css3-animation-javascript-event-handlers/,event,,How to Capture CSS3 Animation Events in JavaScript — SitePoint,
+"Eleventy
+<https://www.11ty.io/>",https://www.11ty.io/,framework,,Eleventy,
+"Restart CSS Animation | CSS-Tricks
+<https://css-tricks.com/restart-css-animation/>",https://css-tricks.com/restart-css-animation/,css,,Restart CSS Animation | CSS-Tricks,
+"Nuxt.js - The Vue.js Framework
+<https://nuxtjs.org/>",https://nuxtjs.org/,framework,,nuxtjs.org,
+"Get up and running with Tailwind CSS and Next.js - Jamie Barton - Medium
+<https://medium.com/@notrab/get-up-and-running-with-tailwind-css-and-next-js-ba1b78cb9498>",https://medium.com/@notrab/get-up-and-running-with-tailwind-css-and-next-js-ba1b78cb9498,framework,,Get up and running with Tailwind CSS and Next.js - Jamie Barton - Medium,
+"Tailwind CSS Components gallery
+<https://tailwindcomponents.com/components?tag=Forms>",https://tailwindcomponents.com/components?tag=Forms,framework,,Tailwind CSS Components gallery,
+"TACHYONS - Css Toolkit
+<http://tachyons.io/>",http://tachyons.io/,framework,,TACHYONS - Css Toolkit,
+"Theme Configuration - Tailwind CSS
+<https://tailwindcss.com/docs/theme>",https://tailwindcss.com/docs/theme,framework,,Theme Configuration - Tailwind CSS,
+"Quokka - Live Scratchpad for JavaScript in your editor
+<https://quokkajs.com/>",https://quokkajs.com/,js-live,,Quokka - Live Scratchpad for JavaScript in your editor,
+"Blotter.js
+<https://blotter.js.org/>",https://blotter.js.org/,"jslib
+",,Blotter.js,
+"UIkit
+<https://getuikit.com/>",https://getuikit.com/,framework,,UIkit,
+"10 Open-Source JavaScript Data Chart Libraries Worth Considering
+<https://speckyboy.com/open-source-javascript-data-chart-libraries/>",https://speckyboy.com/open-source-javascript-data-chart-libraries/,"jslib
+",,10 Open-Source JavaScript Data Chart Libraries Worth Considering,
+<https://speckyboy.com/javascript-cheatsheets/>,https://speckyboy.com/javascript-cheatsheets/,learn,,Top 50 Cheatsheets and Reference Guides for JavaScript,
+Our 100 Favorite CSS Libraries,https://speckyboy.com/100-css-libraries-frameworks-tools/,framework,,https://speckyboy.com/100-css-libraries-frameworks-tools/,
+"11 Javascript Utility Libraries you Should Know in 2019
+<https://blog.bitsrc.io/11-javascript-utility-libraries-you-should-know-in-2018-3646fb31ade>",https://blog.bitsrc.io/11-javascript-utility-libraries-you-should-know-in-2018-3646fb31ade,"jslib
+",,11 Javascript Utility Libraries you Should Know in 2019,
+<https://lukehaas.me/projects/>,https://lukehaas.me/projects/,"people
+",,Luke Haas - JavaScript Developer,
+<https://runjs.dev/>,https://runjs.dev/,"js-live
+",,RunJS - Write and run JavaScript instantly,
+<https://vegawidget.rbind.io/posts/2019-07-10-user-2019-presentation/>,https://vegawidget.rbind.io/posts/2019-07-10-user-2019-presentation/,htmlwidgets,,vegawidget: UseR! 2019 Presentation,
+"Tailwind CSS - A Utility-First CSS Framework for Rapidly Building Custom Designs
+<https://tailwindcss.com/>",https://tailwindcss.com/,framework css,,Tailwind CSS - A utility-first CSS framework for rapidly building custom designs,
+<http://getbase.org/>,http://getbase.org/,framework css,,Base CSS Framework,
+"egjs
+<https://naver.github.io/egjs/>",https://naver.github.io/egjs/,"jslib
+",,egjs,
+<https://t.co/fpHuN8d9q7?ssr=true>,https://r-bootcamp.netlify.com/,r,,RBootcamp · A free online course about the basics of the tidyverse,
+<https://ponyfoo.com/articles/choose-grunt-gulp-or-npm>,https://ponyfoo.com/articles/choose-grunt-gulp-or-npm,npm,,"Choose: Grunt, Gulp, or npm?",
+<https://ponyfoo.com/articles/es6>,https://ponyfoo.com/articles/es6,es6,,ES6 Overview in 350 Bullet Points,
+<https://ponyfoo.com/books>,https://ponyfoo.com/books,learn,,Books written by Nicolás Bevacqua — Pony Foo,
+<https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70>,https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70,npm,,Modern JavaScript Explained For Dinosaurs - Node.js Collection - Medium,
+"ES2015 Crash Course: Babel Setup
+<https://laracasts.com/series/es6-cliffsnotes/episodes/1>",https://laracasts.com/series/es6-cliffsnotes/episodes/1,es6,,Laracasts,
+<https://github.com/leonardomso/33-js-concepts>,https://github.com/leonardomso/33-js-concepts,learn,,leonardomso/33-js-concepts,
+<https://freecodecamp.com/>,https://freecodecamp.com/,learn,,"Learn to code with free online courses, programming projects, and interview preparation for developer jobs.",
+<https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.5ld817l5v>,https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.5ld817l5v,learn,,Top JavaScript Frameworks &amp; Topics to Learn in 2017,
+"Learn JavaScript
+<https://learnjavascript.online/>",https://learnjavascript.online/,learn,,Learn JavaScript,
+"Jennifer Dewalt — I'm learning to code by building 180 websites in...
+<https://blog.jenniferdewalt.com/post/56319597560/im-learning-to-code-by-building-180-websites-in>",https://blog.jenniferdewalt.com/post/56319597560/im-learning-to-code-by-building-180-websites-in,learn,,I'm learning to code by building 180 websites in 180 days. Today is day 115.,
+<https://medium.com/heresy-dev/getting-started-with-postcss-a-quick-guide-for-sass-users-90c8b675d5f4>,https://medium.com/heresy-dev/getting-started-with-postcss-a-quick-guide-for-sass-users-90c8b675d5f4,"css
+",,Getting started with PostCSS: A quick guide for Sass users,
+<https://cssfx.dev/>,https://cssfx.dev/,css animation,,CSSFX - Beautifully simple click-to-copy CSS effects,
+<https://github.com/diklein/wedding/blob/master/gulpfile.js>,https://github.com/diklein/wedding/blob/master/gulpfile.js,demo,,diklein/wedding,
+<https://slicejack.com/gulp-streaming-javascript-task-runner/>,https://slicejack.com/gulp-streaming-javascript-task-runner/,"npm build
+",,Meet Gulp: A Streaming JavaScript Task Runner - Slicejack,
+<https://slicejack.com/quick-guide-to-css-length-units/>,https://slicejack.com/quick-guide-to-css-length-units/,css,,The quick guide to CSS length units - Slicejack,
+<https://slicejack.com/quick-guide-to-css-specificity/>,https://slicejack.com/quick-guide-to-css-specificity/,css,,The Quick Guide to CSS Specificity - Slicejack,
+<https://slicejack.com/introduction-to-postcss/>,https://slicejack.com/introduction-to-postcss/,css build,,Introduction to PostCSS with Gulp - Slicejack,
+<https://github.com/adamelliotfields/notes/tree/master/javascript>,https://github.com/adamelliotfields/notes/tree/master/javascript,learn,,adamelliotfields/notes,
+<https://www.youtube.com/watch?v=cbjFB0koo-4&amp;feature=share>,https://www.youtube.com/watch?v=cbjFB0koo-4&amp;feature=share,"build
+",,Modern JavaScript Tooling,
+"The Modern JavaScript Tutorial
+<https://javascript.info/>",https://javascript.info/,learn,,The Modern JavaScript Tutorial,
+<http://jamesknelson.com/es6-the-bits-youll-actually-use/>,http://jamesknelson.com/es6-the-bits-youll-actually-use/,es6,,A Quick Tour Of ES6 (the bits you'll actually use),
+<https://www.youtube.com/user/jsconfeu>,https://www.youtube.com/user/jsconfeu,learn video,,JSConf,
+<https://www.youtube.com/user/dotconferences>,https://www.youtube.com/user/dotconferences,learn video,,dotconferences,
+<https://webgems.io/>,https://webgems.io/,learn,,webgems,
+<https://scotch.io/>,https://scotch.io/,learn,,Top Shelf Web Development Training,
+<https://cssgrid-generator.netlify.com/>,https://cssgrid-generator.netlify.com/,"css grid
+",,CSS Grid Generator,
+<https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg>,https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg,learn video,,The Net Ninja,
+"The Stack: Every Layout
+<https://dev.to/kevtiq/an-ode-to-the-css-owl-selector-359c>",https://dev.to/kevtiq/an-ode-to-the-css-owl-selector-359c,css,,An ode to the CSS owl selector,
+<https://jgthms.com/wysiwyg.css/>,https://jgthms.com/wysiwyg.css/,css,,wysiwyg.css,
+<https://flaviocopes.com/chrome-devtools-tips/>,https://flaviocopes.com/chrome-devtools-tips/,browser,,A list of cool Chrome DevTools Tips and Tricks,
+<https://www.freecodecamp.org/news/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e/?utm_source=hackernewsletter&amp;utm_medium=email&amp;utm_term=code>,https://www.freecodecamp.org/news/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e/?utm_source=hackernewsletter&amp;utm_medium=email&amp;utm_term=code,"learn
+",,"Here are examples of everything new in ECMAScript 2016, 2017, and 2018",
+<https://shinydevseries.com/post/golem-demo/>,https://shinydevseries.com/post/golem-demo/,shiny,,Hands-on demonstration of {golem}! | Shiny Developer Series,
+CSS Animation Libraries <https://css-tricks.com/css-animation-libraries/>,https://css-tricks.com/css-animation-libraries/,css animation,,CSS Animation Libraries | CSS-Tricks,
+Visual Studio Code Starters <https://scotch.io/starters/visual-studio-code>,https://scotch.io/starters/visual-studio-code,vscode,,Visual Studio Code Starters,
+Linting and Formatting with ESLint in VS Code <http://scotch.io/tutorials/linting-and-formatting-with-eslint-in-vs-code>,http://scotch.io/tutorials/linting-and-formatting-with-eslint-in-vs-code,vscode,,Linting and Formatting with ESLint in VS Code,
+<https://github.com/sourcethemes/project-kickstart-r>,https://github.com/sourcethemes/project-kickstart-r,r,,sourcethemes/project-kickstart-r,
+<https://github.com/tradestatistics/visualization-with-shiny>,https://github.com/tradestatistics/visualization-with-shiny,shiny,,tradestatistics/visualization-with-shiny,
+<https://el2.convertkit-mail.com/c/v8uopldxl5srhpk22nbw/29t2hoh8p6od0d/aHR0cHM6Ly9mbGF2aW9jb3Blcy5jb20vZHJhZy1hbmQtZHJvcC8=>,https://el2.convertkit-mail.com/c/v8uopldxl5srhpk22nbw/29t2hoh8p6od0d/aHR0cHM6Ly9mbGF2aW9jb3Blcy5jb20vZHJhZy1hbmQtZHJvcC8=,"jslib
+",,How to use the Drag and Drop API,
+<https://medium.com/young-coder/setting-up-javascript-debugging-in-visual-studio-code-6c5005529987?utm_source=share&amp;utm_medium=ios_app>,https://medium.com/young-coder/setting-up-javascript-debugging-in-visual-studio-code-6c5005529987?utm_source=share&amp;utm_medium=ios_app,vscode,,Setting up JavaScript Debugging in Visual Studio Code,
+<https://www.reddit.com/r/javascript/comments/cpihna/weatheremoji_get_weather_with_an_emoji/?utm_source=share&amp;utm_medium=ios_app>,https://www.reddit.com/r/javascript/comments/cpihna/weatheremoji_get_weather_with_an_emoji/?utm_source=share&amp;utm_medium=ios_app,demo idea,,r/javascript - :sunny: :rainbow: Weather-emoji get weather with an emoji.,
+<https://www.reddit.com/r/javascript/comments/cpzbml/askjs_what_are_where_your_biggest_problems_when/?utm_source=share&amp;utm_medium=ios_app>,https://www.reddit.com/r/javascript/comments/cpzbml/askjs_what_are_where_your_biggest_problems_when/?utm_source=share&amp;utm_medium=ios_app,feedback,,r/javascript - [AskJS] What are (where) your biggest problems when starting in front-end?,
+"GitHub - Vectorized/html.js: html.js - Write HTML in JS easily.
+<https://github.com/Vectorized/html.js>",https://github.com/Vectorized/html.js,"jslib
+",,Vectorized/html.js,
+"JavaScript Joe
+<https://jsjoe.io/>",https://jsjoe.io/,learn,,JavaScript Joe,
+<http://arm.rbind.io/days/day2/>,http://arm.rbind.io/days/day2/,rmarkdown,,Day 2 | Advanced R Markdown Workshop,
+"2D - Flare by 2Dimensions. Bring your apps and games to life with real-time animation.
+<https://www.2dimensions.com/about-flare>",https://www.2dimensions.com/about-flare,design,,2D - Flare by 2Dimensions. Bring your apps and games to life with real-time animation.,
+"Figma: the collaborative interface design tool.
+<https://www.figma.com/>",https://www.figma.com/,design,,Figma: the collaborative interface design tool.,
+"Font Flipper - Find Free Fonts
+<https://fontflipper.com/mobile>",https://fontflipper.com/mobile,design,,Font Flipper: Find Free Fonts,
+Design Principles for Developers: Processes and CSS Tips for Better Web Design <https://css-tricks.com/design-principles-for-developers-processes-and-css-tips-for-better-web-design/>,https://css-tricks.com/design-principles-for-developers-processes-and-css-tips-for-better-web-design/,design,,Design Principles for Developers: Processes and CSS Tips for Better Web Design | CSS-Tricks,
+"CSS Grid Generator
+<https://cssgrid-generator.netlify.com/>",https://cssgrid-generator.netlify.com/,css,,CSS Grid Generator,
+<https://t.co/50B3VwEKnG?amp=1>,https://codepen.io/collection/nMgKxJ/,design,,Useful Pens for Everyday Front End Development - a Collection by  Sarah Drasner on CodePen,
+Flexbox Cheat Sheets <https://dev.to/ladybug/flexbox-cheat-sheets-5h55>,https://dev.to/ladybug/flexbox-cheat-sheets-5h55,"css flexbox
+",,Flexbox Cheat Sheets,
+"One HTML Page Challenge
+<https://onehtmlpagechallenge.com/>",https://onehtmlpagechallenge.com/,"design html
+",,One HTML Page Challenge,
+"GitHub - reactide/reactide: Reactide is the first dedicated IDE for React web application development.
+<https://github.com/reactide/reactide>",https://github.com/reactide/reactide,framework,,reactide/reactide,
+<https://www.styled-components.com/>,https://www.styled-components.com/,"web-components
+",,styled-components,
+Building a side project: <http://Codetalks.tv|Codetalks.tv> <https://dev.to/jvlobo/building-a-side-project-codetalks-tv-19po>,https://dev.to/jvlobo/building-a-side-project-codetalks-tv-19po,learn,,Building a side project: Codetalks.tv,
+"GitHub - daybrush/moveable: :left_right_arrow: :arrow_up_down: :arrows_counterclockwise: Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable!
+<https://github.com/daybrush/moveable>",https://github.com/daybrush/moveable,"jslib
+",,daybrush/moveable,
+"datalib - npm
+<https://www.npmjs.com/package/datalib>",https://www.npmjs.com/package/datalib,npm,,datalib,
+"vivus.js - svg animation
+<https://maxwellito.github.io/vivus/>",https://maxwellito.github.io/vivus/,"jslib animation
+",,vivus.js - svg animation,
+<https://www.versionmuseum.com/>,https://www.versionmuseum.com/,browser,,Version Museum: A Visual History of Your Favorite Technology,
+<https://www.digitalocean.com/community/tutorials/how-to-traverse-the-dom>,https://www.digitalocean.com/community/tutorials/how-to-traverse-the-dom,html js,,Walking and Traversing the DOM with JavaScript | DigitalOcean,
+<https://www.pika.dev/cdn>,https://www.pika.dev/cdn,npm,,Pika CDN,
+<https://datascienceweekly.us3.list-manage.com/track/click?u=71a2b2a38789d4d25b738462f&amp;id=743a72e576&amp;e=018afb8e3d>,https://datascienceweekly.us3.list-manage.com/track/click?u=71a2b2a38789d4d25b738462f&amp;id=743a72e576&amp;e=018afb8e3d,jslib d3 dataviz,,"D3 Tutorials, D3 Screencasts, and a D3 Newsletter | DashingD3js.com",
+<https://github.com/wcoder/highlightjs-line-numbers.js/>,https://github.com/wcoder/highlightjs-line-numbers.js/,jslib,,wcoder/highlightjs-line-numbers.js,
+<https://amontalenti.com/2019/08/10/javascript-the-modern-parts?utm_source=share&amp;utm_medium=ios_app>,https://amontalenti.com/2019/08/10/javascript-the-modern-parts?utm_source=share&amp;utm_medium=ios_app,learn,,JavaScript: The Modern Parts,
+"How JavaScript Grew Up and Became a Real Language
+<https://www.reddit.com/r/javascript/comments/cuoz6i/how_javascript_grew_up_and_became_a_real_language/?utm_source=share&amp;utm_medium=ios_app>",https://www.valentinog.com/blog/jsdoc/,learn,,r/javascript - How JavaScript Grew Up and Became a Real Language,
+<http://howmanyofme.com/people/Johnny_Cash/>,http://howmanyofme.com/people/Johnny_Cash/,demo idea,,How Many of Me - Johnny Cash,
+<https://undraw.co/illustrations>,https://undraw.co/illustrations,svg,,unDraw | Colorful illustrations,
+"19 Online Tools for Creating Charts - Flatlogic - Blog
+<https://flatlogic.com/blog/19-online-tools-for-creating-charts/>",https://flatlogic.com/blog/19-online-tools-for-creating-charts/,jslib dataviz,,19 Online Tools for Creating Charts - Flatlogic - Blog,
+"The jQuery Mega Cheat Sheet - Make A Website Hub
+<https://makeawebsitehub.com/jquery-mega-cheat-sheet/>",https://makeawebsitehub.com/jquery-mega-cheat-sheet/,jquery,,The jQuery Mega Cheat Sheet - Make A Website Hub,
+<https://leungwensen.github.io/svg-icon/#open>,https://leungwensen.github.io/svg-icon/#open,svg,,svg-icon,
+<https://freewebillustrations.com/?utm_source=share&amp;utm_medium=ios_app>,https://freewebillustrations.com/?utm_source=share&amp;utm_medium=ios_app,svg,,"Free Web Illustrations – 1,500+ Beautiful Free Illustrations for Your Website",
+"GitHub - mohsen1/json-formatter-js: Render JSON objects in beautiful HTML (pure JavaScript)
+<https://github.com/mohsen1/json-formatter-js>",https://github.com/mohsen1/json-formatter-js,json,,mohsen1/json-formatter-js,
+"Secure and Scalable: An Introduction to JAMstack ― <http://Scotch.io|Scotch.io>
+<https://scotch.io/tutorials/secure-and-scalable-an-introduction-to-jamstack>",https://scotch.io/tutorials/secure-and-scalable-an-introduction-to-jamstack,js,,Secure and Scalable: An Introduction to JAMstack,
+"JavaScript Examples
+<https://js.freefrontend.com/>",https://js.freefrontend.com/,learn js,,JavaScript Examples,
+<https://cur.at/OLximUN?m=rss>,https://cur.at/OLximUN?m=rss,jslib d3 dataviz,,Fullstack D3 and Data Visualization: The Complete Guide to Developing Data Visualizations with D3 - # Build beautiful data visualizations with D3,
+<http://animista.net/play/entrances/slide-in-fwd>,http://animista.net/play/entrances/slide-in-fwd,css animation,,Animista,
+JavaScript modules,https://dev.to/yashints/javascript-modules-the-good-the-bad-and-the-ugly-36nb,js modules,,the bad and the ugly :face_with_monocle,
+My favorite CSS hack <https://dev.to/gajus/my-favorite-css-hack-32g3>,https://dev.to/gajus/my-favorite-css-hack-32g3,css,,My favorite CSS hack,
+"box-sizing border-box vs content-box
+<https://codepen.io/ameseee/pen/JjPWJdL>",https://codepen.io/ameseee/pen/JjPWJdL,css,,box-sizing,
+Fast Software <https://css-tricks.com/fast-software/>,https://css-tricks.com/fast-software/,css,,Fast Software | CSS-Tricks,
+<https://www.merriam-webster.com/words-at-play/top-10-rare-and-amusing-insults-vol-1/mooncalf>,https://www.merriam-webster.com/words-at-play/top-10-rare-and-amusing-insults-vol-1/mooncalf,idea,,"Rare and Amusing Insults: Cockalorum, Snollygoster, and More : Mooncalf",
+<https://vanillaframework.io/>,https://vanillaframework.io/,design framework css,,Vanilla Framework,
+<https://designsystem.digital.gov/>,https://designsystem.digital.gov/,design framework css,,USWDS: The United States Web Design System,
+<http://sipapp.io/>,http://sipapp.io/,"design color
+",,Sip Color for Mac,
+<http://www.colorfavs.com/colors/a43391/>,http://www.colorfavs.com/colors/a43391/,"design color
+",,ColorFavs,
+<https://macsvg.org/>,https://macsvg.org/,app svg,,Introducing macSVG.,
+<https://www.toptal.com/designers/subtlepatterns/?s=hex>,https://www.toptal.com/designers/subtlepatterns/?s=hex,svg,,Subtle Patterns,
+<https://css-tricks.com/snippets/css/css-box-shadow/>,https://css-tricks.com/snippets/css/css-box-shadow/,css,,CSS Box Shadow | CSS-Tricks,
+<https://leungwensen.github.io/svg-icon/>,https://leungwensen.github.io/svg-icon/,svg,,svg-icon,
+<https://loading.io/progress/>,https://loading.io/progress/,"jslib
+",,LoadingBar.js / Flexible JS Progress Bar Library,
+<http://svgicons.sparkk.fr/>,http://svgicons.sparkk.fr/,svg,,SVG Icons - Ready to use SVG Icons for the web.,
+<https://iconsvg.xyz/>,https://iconsvg.xyz/,svg,,"Find, customize &amp; generate common SVG icons for your project",
+"public-apis/README.md at master · public-apis/public-apis · GitHub
+<https://github.com/public-apis/public-apis/blob/master/README.md#open-data>",https://github.com/public-apis/public-apis/blob/master/README.md#open-data,api,,public-apis/public-apis,
+<https://carbon-design-system.github.io/carbon-charts/>,https://carbon-design-system.github.io/carbon-charts/,jslib dataviz,,Carbon Charts,
+<https://github.com/captbaritone/webamp>,https://github.com/captbaritone/webamp,jslib,,captbaritone/webamp,
+<http://numbersapi.com/#42>,http://numbersapi.com/#42,api,,Numbers API,
+,https://fresh-folk.com/,svg,,Fresh Folk,
+,https://humans.fyi/,design,humans-fyi,Humans FYI,
+,https://splitting.js.org/,"jslib animation
+",splitting-js,Splitting JS - text animation,
+,https://tobiasahlin.com/typesource/,design typography,typesource,TypeSource Typography Examples,
+"The two-value syntax of the CSS Display property - Mozilla Hacks - the Web developer blog
+<https://hacks.mozilla.org/2019/10/the-two-value-syntax-of-the-css-display-property/>",https://hacks.mozilla.org/2019/10/the-two-value-syntax-of-the-css-display-property/,css,,The two-value syntax of the CSS Display  property – Mozilla Hacks - the Web developer blog,
+Frend — A collection of accessible,https://frend.co,"web-components
+",,Modern Front-End Components,
+"Cube.js Templates
+<https://cube.dev/templates/?ref=producthunt>",https://cube.dev/templates/?ref=producthunt,framework dashboard,,Cube.js | Open Source Analytics Framework,
+<https://javascriptweekly.com/link/80091/rss>,https://ashleynolan.co.uk/blog/frontend-tooling-survey-2019-results,state-of-web-dev,,The Front-End Tooling Survey 2019 - Results,
+<https://javascriptweekly.com/link/80094/rss>,https://github.com/30-seconds/30-seconds-of-code#readme,learn js css,,30-seconds/30-seconds-of-code,
+"15 Common Operations on Arrays in JavaScript (Cheatsheet)
+<https://dmitripavlutin.com/operations-on-arrays-javascript/>",https://dmitripavlutin.com/operations-on-arrays-javascript/,js array,,15 Common Operations on Arrays in JavaScript (Cheatsheet),
+"Sketchviz - Create and publish Graphviz graphs on the web for free
+<https://sketchviz.com/new>",https://sketchviz.com/new,app svg diagram,,Sketchviz - Create and publish Graphviz graphs on the web for free,
+JavaScript the Hard Parts: Closures,https://www.youtube.com/watch?v=ZVXrJ4dnUx,learn,,"JavaScript the Hard Parts: Closures, Scope and Context",
+"leonardomso/33-js-concepts at producthunt
+<https://github.com/leonardomso/33-js-concepts?ref=producthunt>",https://github.com/leonardomso/33-js-concepts,learn js,,leonardomso/33-js-concepts,
+<https://css.30secondsofcode.org/>,https://css.30secondsofcode.org/,learn css,,30 seconds of CSS,
+<https://frontendmasters.com/books/front-end-handbook/2019/>,https://frontendmasters.com/books/front-end-handbook/2019/,learn css html js,,"Front-end Developer Handbook 2019 - Learn the entire JavaScript, CSS and HTML development practice!",
+<https://www.30secondsofcode.org/>,https://www.30secondsofcode.org/,learn css html js,,30 seconds of code,
+<https://frontendchecklist.io/>,https://frontendchecklist.io/,accessibility,,:sparkles: Your best Front-End Tool :sparkles:,
+<https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g>,https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g,accessibility,,A11ycasts with Rob Dodson - YouTube,
+<https://medium.com/@realabhijeet4u/9-tips-to-get-bare-minimum-of-web-accessibility-739899a9437c>,https://medium.com/@realabhijeet4u/9-tips-to-get-bare-minimum-of-web-accessibility-739899a9437c,accessibility,,9 tips to get bare minimum of web accessibility,
+<https://bestofjs.org/>,https://bestofjs.org/,learn js jslib,,Best of JavaScript,
+<https://wiredjs.com/showcase.html>,https://wiredjs.com/showcase.html,jslib,,Wired Elements,
+<https://www.taniarascia.com/how-to-use-local-storage-with-javascript/>,https://www.taniarascia.com/how-to-use-local-storage-with-javascript/,js localStorage,,How to Use Local Storage with JavaScript,
+<https://itnext.io/destructuring-arrays-objects-javascript-es6-feature-series-pt-10-507108471c07?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf>,https://itnext.io/destructuring-arrays-objects-javascript-es6-feature-series-pt-10-507108471c07?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf,js array object,,Destructuring Arrays &amp; Objects: JavaScript ES6 Feature Series (Pt 10),
+<https://codesquery.com/javascript-array-method-map-filter-and-reduce/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf>,https://codesquery.com/javascript-array-method-map-filter-and-reduce/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf,js array,,"7 Best Use Case of JavaScript Array Method map(), filter() and reduce()",
+<https://exercism.io/tracks/javascript-legacy?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf>,https://exercism.io/tracks/javascript-legacy?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf,"learn js
+",,JavaScript (Legacy) | Exercism,
+"Introducing sortable to add drag-and-drop to your shiny apps · R Views
+<https://rviews.rstudio.com/2019/11/26/using-sortable-for-drag-and-drop-in-shiny-apps/>",https://rviews.rstudio.com/2019/11/26/using-sortable-for-drag-and-drop-in-shiny-apps/,shiny js libjs post,,Introducing sortable to add drag-and-drop to your shiny apps,
+"jquery being used in 86% of websites
+
+<https://javascriptweekly.com/link/80439/rss>",https://almanac.httparchive.org/en/2019/javascript#open-source-libraries-and-frameworks,jquery,,jquery being used in 86% of websites,
+,https://ml5js.org/,jslib machine-learning,,Friendly Machine Learning For The Web,
+,https://js-tldr.info/,learn js,,"JS tl;dr — MDN quick reference
+",
+,https://icofont.com/icons,svg icon,,icofont — free icons,
+,http://jsforcats.com/,learn js,,"JavaScript For Cats
+",
+,https://developer.mozilla.org/en-US/docs/Web/JavaScript,learn js,,MDN JavaScript,
+,https://learn.jquery.com/,learn jquery,,"jQuery Learning Center
+",
+,https://eloquentjavascript.net/,learn book js,,Eloquent JavaScript,
+,"
+https://github.com/getify/You-Dont-Know-JS",learn book js free,,You Don't Know JS Yet,
+,http://js4ds.org/,learn book js,,JavaScript for Data Science,
+,http://www.javascriptbook.com/,learn book js,,"JavaScript & jQuery: Interactive Front-End Web Development
+",
+,http://speakingjs.com/es5/index.html,learn book js free,,Speaking JavaScript,
+,https://exploringjs.com/es6.html,learn book js free,,Exporing ES6,
+,https://davidwalsh.name/css-flip,css animation post,,CSS Flip Animation,
+,https://easings.net/,css animation,,"CSS Easing Functions
+",
+,https://css-tricks.com/using-css-transitions-auto-dimensions/,css animation post,,CSS Transition Height,
+,http://wtfforms.com/,css forms,,WTF? Forms,
+,https://css-tricks.com/overriding-default-button-styles/,"css button
+",,Good default button styles,
+,https://css-tricks.com/dark-modes-with-css/,css dark mode post,,Dark Mode with CSS,
+,https://whocanuse.com/?b=da3&c=302929&f=22&s=b,accessibility color,,Who Can Use?,
+,https://addyosmani.com/resources/essentialjsdesignpatterns/book/,learn js book,,Learning JavaScript Design Patterns,
+,http://compromise.cool/,"jslib machine-learning nlp
+",,compromise,Good-enough natural language processing
+,https://www.tensorflow.org/js/,jslib machine-learning,,Tensorflow.js,"Machine learning in JavaScript. Develop ML models in JavaScript, and use ML directly in the browser or in Node.js.
+
+"
+,https://brain.js.org/#/,jslib machine-learning,,brain.js,GPU accelerated Neural networks in JavaScript
+,https://github.com/mljs,jslib machine-learning,,ml.js,Machine learning and numerical analysis tools in JavaScript
+,https://trackingjs.com/,jslib vision,,tracking.js,A modern approach for Computer Vision on the web
+,https://www.talater.com/annyang/,jslib speech,,annyang,SpeechRecognition that just works
+,https://github.com/pazguille/voix,jslib speech,,voix.js,"A JavaScript library to add voice commands to your sites, apps or games."
+,https://arrayexplorer.netlify.com/,learn js,,Array and Object Explorer,Find the array and object examples you need
+,https://eslint.org/,"js tooling
+",eslint,ESLint,Find and fix problems in your JavaScript code
+,https://eslint.org/docs/rules/,js tooling reference,eslint-rules,ESLint Rules,"ESLint Documentation
+"
+,https://prettier.io/,js tooling,prettier,Prettier,An opinionated code formatter
+,https://prettier.io/docs/en/options.html,js tooling,prettier-options,Prettier Options,Prettier Options
+,https://github.com/wesbos/eslint-config-wesbos,js tooling,"eslint-config-wesbos
+",Wes Bos' ESLint Configuration,
+,https://github.com/onepassapp/eslint-config-onepass,js tooling,eslint-config-onepass,OnePass' ESLint Configuration,
+,https://nodejs.org/,node js tooling,nodejs,Node,
+,https://github.com/nvm-sh/nvm,node js tooling nvm,nvm,Node Version Manager,
+,https://docs.npmjs.com/downloading-and-installing-node-js-and-npm,node js tooling npm,npm-install,Downloading and installing Node.js and npm,
+,https://www.npmjs.com/,"npm js tooling
+",npm-install,Node Package Manager,
+,https://flukeout.github.io/,learn css app,,CSS Diner,A game for learning CSS
+,https://exploringjs.com/deep-js/,learn js book,,Deep JavaScript: Theory and Techniques,
+,https://standardjs.com/index.html,js tooling,standard,JavaScript Standard Style ,
+,https://swashbuckler.ai/,jslib machine-learning,swashbuckler,Swashbuckler AI,"A simple, complete & opensource library for machine learning at any scale."
+,https://synesenom.github.io/ran/,jslib statistics,,"ranjs
+","A small library for robust generation of various random variates, testing data against distributions, calculating different statistical properties, or sampling unknown distributions using advanced MCMC methods."
+,https://nosir.github.io/cleave.js/,jslib,,"cleave.js
+",Formatted text input boxes
+,https://github.com/qodesmith/typer,jslib,,typerjs,A dependency-free typing library
+,https://html5boilerplate.com/,html,,HTML5 Boilerplate,
+,https://www.toptal.com/designers/htmlarrows/,html,,HTML Entities,

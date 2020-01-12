@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Learning Objectives"
-subtitle = "[ADD YOUR LEARNING OBJECTIVES HERE USING MARKDOWN]"
+subtitle = "Big Picture Web Development Skills for R and Shiny Users"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -23,11 +23,11 @@ subtitle = "[ADD YOUR LEARNING OBJECTIVES HERE USING MARKDOWN]"
 
   # Background color.
   # color = "navy"
-  
+
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
-  
+
   # Background image.
   image = ""  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -40,15 +40,27 @@ subtitle = "[ADD YOUR LEARNING OBJECTIVES HERE USING MARKDOWN]"
   padding = ["6em", "0", "10em", "0"]
 
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = "margin-top: -1em !important;"
- 
+
  # CSS class.
  css_class = ""
 +++
 
-1. First learning objective
+[htmlwidgets]: https://www.htmlwidgets.org/
 
-1. Second learning objective
+1. How do Shiny, HTML, CSS, and JavaScript all work together?
 
-1. Third learning objective
+2. How to use JavaScript to build interactive web apps (without Shiny :grimacing:)
+
+3. How to use JavaScript to modify and manipulate HTML
+
+4. The fundamentals of CSS and making web pages that look great
+
+5. Using JavaScript libraries in R and Shiny
+
+6. Use the [htmlwidgets] package to create custom data visualizations
+
+7. How Shiny server communicates with the browser
+
+8. Make responsive Shiny apps with Bootstrap
