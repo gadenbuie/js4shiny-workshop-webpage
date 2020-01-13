@@ -57,7 +57,10 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = ""
 phone = ""
-address = "Hilton San Francisco Union Square<br>333 O'Farrell Street<br>San Francisco, CA 94102"
+address = """<strong>Continental Ballroom Room 6 (Ballroom Level)</strong><br>
+             Hilton San Francisco Union Square<br>
+             333 O'Farrell Street<br>
+             San Francisco, CA 94102"""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """Monday January 27, 09:00 to 17:00<br>
@@ -71,9 +74,9 @@ appointment_url = ""
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "#rstudioconf", link = "https://twitter.com/hashtag/rstudioconf"},
   {icon = "twitter", icon_pack = "fab", name = "#js4shiny", link = "https://twitter.com/hashtag/js4shiny"},
-  # {icon = "github", icon_pack = "fab", name = "Submit an issue", link = "https://github.com/rstudio-conf-2020/workshop-template-blogdown/issues"},
-  # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+  {icon = "box-open", icon_pack = "fas", name = "Workshop Package", link = "https://pkg.js4shiny.com"},
+  {icon = "github", icon_pack = "fab", name = "Workshop Repo", link = "https://github.com/rstudio-conf-2020/js-for-shiny"},
+  {icon = "gitter", icon_pack = "fab", name = "Gitter Chatroom", link = "https://gitter.im/js4shiny/rstudio-conf-2020"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
