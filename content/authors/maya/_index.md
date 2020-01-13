@@ -40,4 +40,4 @@ user_groups:
 ---
 
 
-I am a mycologist turned data scientist. I love statistics, data visualization, and all things JavaScript. I currently work for Cytel, creating custom Shiny apps for clinical trial data. I also create music related infographics for JamBase.com. When I’m not coding, I’m climbing tall mountains.
+I am a mycologist turned data scientist. I love statistics, data visualization, and [all things JavaScript](http://js4ds.org). I currently work for Cytel, creating custom Shiny apps for clinical trial data. I was a summer of 2019 intern at RStudio where I designed a visual block based programming language called [tidyblocks](http://tidyblocks.tech). I also create music related infographics for JamBase.com. When I’m not coding, I’m climbing tall mountains.
