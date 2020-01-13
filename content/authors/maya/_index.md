@@ -11,9 +11,9 @@ interests:
 - Photograpghy
 - d3.js
 name: Maya Gans
-# organizations:
-# - name: ORG
-#   url: URL
+organizations:
+- name: Cytel
+  url: https://www.cytel.com/
 role: Data Scientist and Web Developer
 projects:
 - name: tidyblocks
