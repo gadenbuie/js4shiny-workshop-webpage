@@ -11,9 +11,9 @@ interests:
 - Photograpghy
 - d3.js
 name: Maya Gans
-# organizations:
-# - name: ORG
-#   url: URL
+organizations:
+- name: Cytel
+  url: https://www.cytel.com/
 role: Data Scientist and Web Developer
 projects:
 - name: tidyblocks
@@ -40,4 +40,4 @@ user_groups:
 ---
 
 
-I am a mycologist turned data scientist. I love statistics, data visualization, and all things JavaScript. I am currently an intern at RStudio designing a visual block based programming language. I create music related infographics for JamBase.com. When I’m not coding, I’m climbing tall mountains.
+I am a mycologist turned data scientist. I love statistics, data visualization, and [all things JavaScript](http://js4ds.org). I currently work for Cytel, creating custom Shiny apps for clinical trial data. I was a summer of 2019 intern at RStudio where I designed a visual block based programming language called [tidyblocks](http://tidyblocks.tech). I also create music related infographics for JamBase.com. When I’m not coding, I’m climbing tall mountains.
