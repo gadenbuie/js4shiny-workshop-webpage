@@ -14,12 +14,16 @@ organizations:
   url: "https://rstudio.com"
 role: Software Engineer
 projects:
+- name: plotly book
+  url: https://plotly-r.com
+  icon_pack: fas
+  icon: fa-chart-bar
 - name: plotly
   url: https://github.com/ropensci/plotly
   icon_pack: fas
-  icon: fa-chart-bar
-- name: shiny
-  url: https://shiny.rstudio.com
+  icon: fa-chart-line
+- name: shinymeta
+  url: https://rstudio.github.io/shinymeta/
   icon_pack: fab
   icon: fa-r-project
 social:
@@ -40,4 +44,4 @@ user_groups:
 - Teaching Assistants
 ---
 
-I develop software interfaces (graphical & programmatic) that enable myself and others to do data analysis in a more efficient, reproducible, and appealing way.
+Carson is a software engineer at RStudio working on projects that bridge R with web technologies, such as shiny, plotly, and rmarkdown. Before joining RStudio in late 2018, Carson worked as consultant, delivering analytical and scientific software to organizations such as the Library of Congress, NOAA, Sandia National Labs, and plotly. Carson began consulting part-time during his PhD in statistics at Iowa State, where his work on the R package plotly was recognized by the ASA with the 2017 Chambers Award. His book "Interactive data visualization with R, plotly, and shiny" is now available online and in print at <https://plotly-r.com>.
