@@ -54,6 +54,12 @@
   weight = 36
 
 [[main]]
+  pre = "<i class=\"fas fa-box-open fa-lg\"></i>"
+  name = "&nbsp;&nbsp;"
+  url = "https://pkg.js4shiny.com"
+  weight = 59
+
+[[main]]
   pre = "<i class=\"fab fa-github fa-lg\"></i>"
   name = ""
   url = "https://github.com/rstudio-conf-2020/js-for-shiny"
