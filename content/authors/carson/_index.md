@@ -1,14 +1,9 @@
 ---
 authors:
 - carson
-# bio: My research interests include distributed robotics, mobile computing and programmable
-#   matter.
-email: ""
-# interests:
-# - Copying and pasting
-# - Formatting dates
-# - Sorting rows
 name: Carson Sievert
+title: Carson
+email: ""
 organizations:
 - name: RStudio
   url: "https://rstudio.com"

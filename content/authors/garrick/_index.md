@@ -2,6 +2,7 @@
 authors:
 - garrick
 bio: R developer and educator and Data Scientist at Moffitt Cancer Center, where he uses Shiny to enable and accelerate cancer research.
+title: Garrick
 education:
   courses:
   - course: MSIE, Industrial Engineering and Management Science

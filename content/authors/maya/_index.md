@@ -11,6 +11,7 @@ interests:
 - Photograpghy
 - d3.js
 name: Maya Gans
+title: Maya
 organizations:
 - name: Cytel
   url: https://www.cytel.com/

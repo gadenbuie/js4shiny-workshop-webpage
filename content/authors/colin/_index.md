@@ -8,6 +8,7 @@ interests:
 - Docker
 - JavaScript
 name: Colin Fay
+title: Colin
 organizations:
 - name: ThinkR
   url: "https://www.thinkr.fr/"

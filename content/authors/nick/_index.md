@@ -9,9 +9,9 @@ interests:
 - Photography
 - Wandering around gardens and museums
 name: Nicholas Strayer
+title: Nick
 organizations:
 - name: Vanderbilt University
-#   url: URL
 role: Ph.D. Candidate, Biostatistics
 projects:
 - name: shinysense
