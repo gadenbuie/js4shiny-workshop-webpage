@@ -4,10 +4,10 @@ authors:
 bio: ""
 email: ""
 interests:
-- Biking places
-- Science fiction
 - Photography
-- Wandering around gardens and museums
+- Science fiction
+- Programming language paradigms
+- Exploring gardens and museums
 name: Nicholas Strayer
 title: Nick
 organizations:
@@ -18,6 +18,14 @@ projects:
   url: https://github.com/nstrayer/shinysense
   icon_pack: fab
   icon: fa-r-project
+- name: LiveFreeOrDichotomize
+  url: https://livefreeordichotomize.com/
+  icon_pack: fab
+  icon: fa-r-project
+- name: sbmR
+  url: https://github.com/tbilab/sbmR
+  icon_pack: fab
+  icon: fa-paragraph
 - name: Data Visualization Best Practices in R
   url: https://www.datacamp.com/courses/visualization-best-practices-in-r
   icon_pack: fas
@@ -25,7 +33,7 @@ projects:
 social:
 - icon: home
   icon_pack: fas
-  link: http://nickstrayer.me/#
+  link: http://nickstrayer.me/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/NicholasStrayer
