@@ -29,19 +29,25 @@ This is a great place to ask quick questions,
 connect with others in the workshop,
 and get in touch with a TA.
 
+## <i class="far fa-comment-alt mr-2"></i> RStudio Community
+
+[js4shiny-rstudio-community]: https://community.rstudio.com/t/javascript-for-shiny-users-workshop-rstudio-conf-2020/49095
+
+<i class="fab fa-discourse mr-2"></i> [JavaScript for Shiny Users on RStudio Community][js4shiny-rstudio-community]
+
+If you have a question about workshop materials,
+need help locating a resource,
+or find an error or typo,
+you can post on our [RStudio Community thread][js4shiny-rstudio-community].
+
+
 ## <i class="fas fa-exclamation-circle mr-2"></i> GitHub Issues
 
 [js-for-shiny]: https://github.com/rstudio-conf-2020/js-for-shiny
 [js4shiny-pkg]: https://github.com/gadenbuie/js4shiny
 
+<i class="fab fa-github mr-2"></i> [gadenbuie/js4shiny](https://github.com/gadenbuie/js4shiny/issues)  
 <i class="fab fa-github mr-2"></i> [rstudio-conf-2020/js-for-shiny][js-for-shiny]
-
-If you have a question about workshop materials,
-need help locating a resource,
-or find an error or typo,
-you can open an issue in the [workshop Github repo][js-for-shiny].
-
-<i class="fab fa-github mr-2"></i> [gadenbuie/js4shiny](https://github.com/gadenbuie/js4shiny/issues)
 
 If you have a question or encounter an error with the [js4shiny package](https://pkg.js4shiny.com),
 you can open an issue in the [**js4shiny** GitHub repo][js4shiny-pkg].
