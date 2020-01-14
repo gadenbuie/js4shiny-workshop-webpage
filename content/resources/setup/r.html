@@ -29,10 +29,24 @@ devtools::install_github(&quot;gadenbuie/js4shiny&quot;, dependencies = TRUE)</c
 <h4>Snippets</h4>
 <p>I’ve created a set of code snippets for RStudio
 that are useful for the types of tasks we’ll cover in the workshop.
-You can find them in <a href="https://github.com/rstudio-conf-2020/js-for-shiny/tree/master/materials/snippets">materials/snippets</a>.</p>
-<p>To install,
+You can find the source files in the <a href="https://github.com/gadenbuie/js4shiny/tree/master/inst/snippets">js4shiny package repository</a>.</p>
+<p>To install the snippets,
 you can use the <a href="#js4shiny">js4shiny</a> package.</p>
 <pre class="r"><code>js4shiny::snippets_install()</code></pre>
+<p>If you haven’t installed snippets before,
+the newly installed <code>js4shiny</code> snippets will mask the built-in RStudio snippets.</p>
+<p>If you do have snippets installed,
+the new snippets should be written added to your snippets list.
+You may wish to make a backup copy of your existing snippets files,
+which you can find by running the following code
+(requires the <a href="https://fs.r-lib.org">fs</a> package).</p>
+<pre class="r"><code># rstudio &lt; 1.3
+snippets_dir &lt;- fs::path_home_r(&quot;.r&quot;, &quot;snippets&quot;)
+
+# rstudio &gt;= 1.3+
+# snippets_dir &lt;- fs::path_home_r(&quot;.config&quot;, &quot;rstudio&quot;, &quot;snippets&quot;)
+
+fs::file_show(snippets_dir)</code></pre>
 <p>Or you can manually install the snippets
 by copying and pasting them into the snippets editor in RStudio,
 which is available under Global Options &gt; Code &gt; Edit Snippets button.

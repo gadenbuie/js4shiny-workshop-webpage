@@ -12,7 +12,6 @@ weight: 10
 ---
 
 [rstudio-desktop]: https://rstudio.com/products/rstudio/
-[rstudio-snippets]: https://support.rstudio.com/hc/en-us/articles/204463668-Code-Snippets
 [rstudio-cloud]: https://rstudio.cloud
 
 ### RStudio Desktop
