@@ -24,7 +24,7 @@ projects:
   icon: fa-r-project
 - name: sbmR
   url: https://github.com/tbilab/sbmR
-  icon_pack: fab
+  icon_pack: fas
   icon: fa-paragraph
 - name: Data Visualization Best Practices in R
   url: https://www.datacamp.com/courses/visualization-best-practices-in-r
