@@ -2,13 +2,13 @@
 date: "2018-09-09T00:00:00Z"
 draft: false
 lastmod: "2018-09-09T00:00:00Z"
-linktitle: Links
+linktitle: Searchable Links
 menu:
   links:
-    name: Links
+    name: Searchable Links
     weight: 30
-summary: Links and resources for Shiny, JavaScript, HTML, and CSS.
-title: Awesome Web Dev in R
+summary: Searchable links and resources for Shiny, JavaScript, HTML, and CSS.
+title: Searchable Awesome Web Dev in R
 toc: false
 type: docs
 weight: 50
@@ -18,19 +18,6 @@ weight: 50
 knitr::opts_chunk$set(message=FALSE, warning=FALSE, echo=FALSE)
 options(htmltools.dir.version = FALSE)
 ```
-
-This is a big list of links to
-articles,
-blog posts,
-JavaScript and CSS libraries,
-online learning resources,
-notes,
-and so much more
-that I found interesting while working on this workshop.
-
-I hope to curate and organize this list a bit more in the future.
-For now, I hope you find something helpful or interesting!
-
 
 ```{r echo=FALSE}
 library(tidyverse)
@@ -83,7 +70,7 @@ links %>%
 	group_nest(group_first) %>%
 	purrr::pmap(function(group_first, data) {
 		htmltools::tagList(
-			htmltools::tags$h3(group_first),
+			# htmltools::tags$h3(group_first),
 			purrr::pmap(data, function(group, title, description, url) {
 				htmltools::tags$li(
 					class = "awesome-link",
@@ -103,11 +90,26 @@ links %>%
 						description
 					)
 				)
-			}) %>%
-				htmltools::tags$ul(class = "awesome-links", .)
+			}) #%>%
+				#htmltools::tags$ul(class = "awesome-links", .)
 		)
 	}) %>%
-  htmltools::div(id = "awesome-links-lists", .)
+  htmltools::tags$ul(class = "list awesome-links", .) %>% 
+  htmltools::div(
+    id = "awesome-links-list",
+    htmltools::tags$label(`for` = "search", "Filter the list"),
+    htmltools::tags$input(class = "search", id = "search"),
+    .
+  )
 ```
 
 <link href="/css/awesome-links.css" rel="stylesheet" type="text/css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js"></script>
+
+```{js}
+var options = {
+    valueNames: [ 'awesome-link-title', 'awesome-link-group-tag', 'awesome-link-url', 'awesome-link-description' ]
+};
+
+var awesomeList = new List('awesome-links-list', options);
+```
