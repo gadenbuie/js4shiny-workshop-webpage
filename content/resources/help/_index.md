@@ -59,4 +59,6 @@ Please feel free to approach any of the [workshop instruction team](/people)
 with any questions, comments or issues you may have.
 We are here to help!
 
-You can also [email Garrick directly](mailto:garrick@adenbuie.com).
+If you a question, concern, or issue to report
+related to our [Code of Conduct](/resources/code-of-conduct),
+you can approach or [email Garrick directly](mailto:garrick@adenbuie.com).
