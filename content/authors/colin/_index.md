@@ -40,7 +40,11 @@ user_groups:
 - Teaching Assistants
 ---
 
-Data Scientist & R Hacker at ThinkR.
-Founder of Data Bzh and cofounder of the Breizh Data Club.
-Part of the RWeekly Team.
-International Speaker.
+Colin is Data Scientist and R Hacker at ThinkR, a French agency focused on everything R-related.
+
+During the day, he helps companies to take full advantage of the power of R, by providing training (from beginner to expert), tools (packages, shiny apps...) and infrastructure. His main areas of expertise are R engineering, infrastructure, and data science in production. 
+
+During the night, Colin is also an hyperactive open source developer and an open data advocate. You can find a lot of his work on his GitHub account (https://github.com/ColinFay). 
+
+He is also active in the Data Science & Open Source community in France, especially in his home town Rennes, where he founded the data-blogging website Data-Bzh.fr, co-founded the Breizh Data Club association, and organises the Breizh Data Club Meetups.  
+
