@@ -35,9 +35,10 @@ For now, I hope you find something helpful or interesting!
 ```{r echo=FALSE}
 library(tidyverse)
 library(glue)
+library(here)
 
-links <- read_csv("~/Dropbox/Projects/js4shiny/js4shiny-workshop/static/resources-links.csv")
-
+links <- read_csv(here("static/resources-links.csv"))
+ 
 url_pattern <- "((https?|ftp|file)://)?([\\w\\d.-]+)\\.([a-zA-Z.]{2,6})([-/.a-zA-Z0-9]+)*/?"
 
 titleCase <- function(x) {
