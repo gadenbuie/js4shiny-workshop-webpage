@@ -14,11 +14,11 @@ The **times are certain** and fixed
 | Time          |                        | Activity                |
 | :------------ | ---------------------- | :---------------------- |
 | 09:00 - 10:30 | :clapper:              | Web Dev 101             |
-| 10:30 - 11:00 | :coffee:               | *Coffee break*          |
+| 10:30 - 11:00 | :coffee:               | *Break*                 |
 | 11:00 - 12:30 | :nail_care:            | Interactivity and Style |
-| 12:30 - 13:30 | :bento:                | *Lunch break*           |
+| 12:30 - 13:30 | :bento:                | *Lunch*                 |
 | 13:30 - 15:00 | :zap:                  | JavaScript              |
-| 15:00 - 15:30 | :coffee:               | *Coffee break*          |
+| 15:00 - 15:30 | :coffee:               | *Break*                 |
 | 15:30 - 17:00 | :globe_with_meridians: | R for Web Dev           |
 
 ### Tuesday, January 28
@@ -26,9 +26,9 @@ The **times are certain** and fixed
 | Time          |                  | Activity                    |
 | :------------ | ---------------- | :-------------------------- |
 | 09:00 - 10:30 | :package:        | htmlwidgets                 |
-| 10:30 - 11:00 | :coffee:         | *Coffee break*              |
+| 10:30 - 11:00 | :coffee:         | *Break*                     |
 | 11:00 - 12:30 | :phone:          | Communicating with Shiny    |
-| 12:30 - 13:30 | :bento:          | *Lunch break*               |
+| 12:30 - 13:30 | :bento:          | *Lunch*                     |
 | 13:30 - 15:00 | :dancing_women:  | Extending Shiny             |
-| 15:00 - 15:30 | :coffee:         | *Coffee break*              |
+| 15:00 - 15:30 | :coffee:         | *Break*                     |
 | 15:30 - 17:00 | :woman_juggling: | Building Awesome Shiny Apps |
