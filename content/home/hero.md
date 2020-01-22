@@ -38,8 +38,8 @@ hero_media = "2020-Conf-600x600.jpg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "http://rstd.io/conf"
-  label = "Register Now"
+  url = "/schedule"
+  label = "Schedule"
   icon_pack = ""
   icon = ""
 
@@ -56,5 +56,8 @@ A two-day workshop to get you up and running with JavaScript
 in Shiny and interactive R Markdown documents.
 
 <center>
-<img src="img/js4shiny-logo.png" style="height:225px" />
+<img src="img/js4shiny-logo_225.png" usemap="#image-map">
+<map name="image-map">
+<area target="" alt="Play the Memory Hex Match Game" title="Play the Memory Hex Match Game" href="/memory-hex-match" coords="2,66,112,1,223,67,225,193,109,260,0,198,0,192" shape="poly">
+</map>
 </center>
