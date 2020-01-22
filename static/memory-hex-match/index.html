@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+    <title>Memory Hex Match</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+
+    <header>
+      <h1 class="title">Memory Hex Match</h1>
+
+      <div class="score-board">
+        <div id="matches"><span class="score-number">0</span> matches</div>
+        <div id="tries"><span class="score-number">0</span> tries</div>
+        <div id="timer"><span id="timer-minutes">00</span>:<span id="timer-seconds">00</span></div>
+        <button id="play-state" value="play" title="Play Game">Let's Play!</button>
+      </div>
+    </header>
+
+    <main>
+      <div class="hex-area">
+        <!-- DEMO CONTENT
+        <div class="hex-card">
+          <div class="hex-front"></div>
+          <div class="hex-back" data-logo="shiny"></div>
+        </div>
+
+        <div class="hex-card">
+          <div class="hex-front"></div>
+          <div class="hex-back" data-logo="r2d3"></div>
+        </div>
+
+        <div class="hex-card">
+          <div class="hex-front"></div>
+          <div class="hex-back" data-logo="forcats"></div>
+        </div>
+
+        <div class="hex-card">
+          <div class="hex-front"></div>
+          <div class="hex-back" data-logo="shiny"></div>
+        </div>
+
+        <div class="hex-card">
+          <div class="hex-front"></div>
+          <div class="hex-back" data-logo="r2d3"></div>
+        </div>
+        -->
+      </div>
+    </main>
+
+    <footer>
+      Inspired by
+      <a href="https://community.rstudio.com/t/shiny-contest-submission-hex-memory-game/25336">Shiny App Contest</a> winner
+      <a href="https://github.com/dreamRs/memory-hex">Hex Memory Game</a>
+      by <a href="https://www.dreamrs.fr/">dreamRs</a>.
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>

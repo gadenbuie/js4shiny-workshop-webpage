@@ -1,0 +1,349 @@
+/*
+ * Variables For Appearance and Size
+ *
+ * Controls the colors of the app. Also the size of the hexagon cards and the
+ * number of rows at three break points, roughly: desktop, tablet, phone.
+ *
+ */
+
+/* Desktop Size */
+:root {
+  --hex-size: 144px;
+  --hex-row: 5;
+  --bg-primary: #324c6d;
+  --primary: #FFFFFF;
+  --accent: #F6FF8F;
+  --font-size: 18px;
+}
+
+@media screen and (min-width: calc(144px * 6)) {
+  .hex-card:nth-child(10n + 6) {
+    margin-left: calc(var(--hex-size) / 2);
+  }
+}
+
+/* Tablet Size */
+@media screen and (max-width: calc(144px * 6)) {
+  :root {
+    --hex-size: 121px;
+    --hex-row: 4;
+    --font-size: 14px;
+  }
+  .hex-card:nth-child(8n + 5) {
+    margin-left: calc(var(--hex-size) / 2);
+  }
+}
+
+/* Phone Size */
+@media screen and (max-width: calc(90px * 6)) {
+  :root {
+    --hex-size: 64px;
+    --hex-row: 4;
+  }
+}
+
+/* ---- Basic typography and colors ---- */
+
+html {
+  background-color: var(--bg-primary);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='28' height='49' viewBox='0 0 28 49'%3E%3Cg fill-rule='evenodd'%3E%3Cg id='hexagons' fill='%23FFFFFF' fill-opacity='0.03' fill-rule='nonzero'%3E%3Cpath d='M13.99 9.25l13 7.5v15l-13 7.5L1 31.75v-15l12.99-7.5zM3 17.9v12.7l10.99 6.34 11-6.35V17.9l-11-6.34L3 17.9zM0 15l12.98-7.5V0h-2v6.35L0 12.69v2.3zm0 18.5L12.98 41v8h-2v-6.85L0 35.81v-2.3zM15 0v7.5L27.99 15H28v-2.31h-.01L17 6.35V0h-2zm0 49v-8l12.99-7.5H28v2.31h-.01L17 42.15V49h-2z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+}
+
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, Ubuntu, roboto, noto, segoe ui, arial, sans-serif;
+  color: white;
+  background: inherit;
+  font-size: var(--font-size);
+}
+
+.title {
+  width: 100%;
+  text-align: center;
+}
+
+button {
+  display: inline-block;
+  border: 2px solid white;
+  padding: 0.5rem 1rem;
+  margin: 0;
+  text-decoration: none;
+  background: inherit;
+  color: var(--primary);
+  font-family: sans-serif;
+  font-size: 1rem;
+  cursor: pointer;
+  text-align: center;
+  transition: background 150ms ease-in-out,
+              color 150ms ease-in-out,
+              transform 150ms ease;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+button:hover,
+button:focus {
+  background: var(--primary);
+  color: var(--bg-primary);
+}
+
+button:focus {
+  outline: 1px solid #fff;
+  outline-offset: -4px;
+}
+
+button:active {
+  transform: scale(0.99);
+}
+
+footer {
+  text-align: center;
+  font-size: 0.75em;
+  position: fixed;
+  bottom: 1em;
+  left: 0;
+  right: 0;
+  opacity: 0.75;
+  padding: 0 2em;
+  z-index: -1;
+}
+
+a {
+  color: var(--primary);
+}
+
+a:visited {
+  color: var(--primary);
+}
+
+a:hover, a:active {
+  color: var(--accent);
+}
+
+/* ---- Score Board Elements ---- */
+
+.score-board {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  width: max-content;
+  margin: 0 auto;
+  align-items: center;
+  text-align: center;
+  grid-gap: 1em;
+}
+
+.score-number {
+  margin-right: 0.33em;
+  font-weight: 600;
+}
+
+#tries, #matches {
+  min-height: 20px;
+}
+
+#matches.winner {
+  color: var(--accent);
+}
+
+#timer {
+  font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
+}
+
+#timer.winner {
+  background: var(--accent);
+  color: var(--bg-primary);
+  padding: 0.33em;
+}
+
+/* ---- Hex Game Area ---- */
+
+.hex-area {
+  max-width: calc(var(--hex-size) * (var(--hex-row) + 0.5));
+  min-width: calc(var(--hex-size) * (var(--hex-row) + 0.5));
+  margin: 2em auto;
+  transition: all 0.5s;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+/* ---- Hex Cards ---- */
+
+@keyframes slideInRight {
+  0% {
+    transform: translateX(125vw);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.hex-card {
+  position: relative;
+  width: var(--hex-size);
+  height: var(--hex-size);
+  animation: slideInRight 0.6s cubic-bezier(0.19, 1, 0.22, 1);;
+  animation-fill-mode: both;
+  filter: drop-shadow(0 5px 5px rgba(0,0,0,0.25));
+}
+
+@media screen and (min-width: calc(144px * 6)) {
+  /* Apply animation with a delay so columns appear together */
+  .hex-card:nth-child(5n + 1) {
+    animation-delay: 0s;
+  }
+
+  .hex-card:nth-child(5n + 2) {
+    animation-delay: 0.1s;
+  }
+
+  .hex-card:nth-child(5n + 3) {
+    animation-delay: 0.2s;
+  }
+
+  .hex-card:nth-child(5n + 4) {
+    animation-delay: 0.3s;
+  }
+
+  .hex-card:nth-child(5n) {
+    animation-delay: 0.4s;
+  }
+}
+
+@media screen and (max-width: calc(144px * 6)) {
+  /* Apply animation with a delay so columns appear together */
+  .hex-card:nth-child(4n + 1) {
+    animation-delay: 0s;
+  }
+
+  .hex-card:nth-child(4n + 2) {
+    animation-delay: 0.1s;
+  }
+
+  .hex-card:nth-child(4n + 3) {
+    animation-delay: 0.2s;
+  }
+
+  .hex-card:nth-child(4n) {
+    animation-delay: 0.3s;
+  }
+}
+
+/* Standard Front/Back Styles */
+.hex-front,
+.hex-back {
+  width: 100%;
+  height: 100%;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: absolute;
+  transition: transform 1s cubic-bezier(0.77, 0, 0.175, 1), /* flip animation */
+              opacity 1s linear,
+              margin 1s linear;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+.hex-front {
+  transform: rotateY(0deg);
+  z-index: 1;
+}
+
+.hex-back {
+  transform: rotateY(180deg);
+}
+
+/* Flip card over when .flipped */
+.flipped .hex-front {
+  transform: rotateY(-180deg);
+}
+
+.flipped .hex-back {
+  transform: rotateY(0deg);
+}
+
+/* Stay flipped when it's a .match but shrink */
+.match .hex-front {
+  transform: rotateY(-180deg) scale(0.66);
+}
+
+.match .hex-back {
+  transform: rotateY(0deg) scale(0.66);
+  opacity: 0.66;
+}
+
+/* ---- Game Winner! ---- */
+.hex-area.winner {
+  padding-top: 1em;
+}
+
+.hex-card.winner {
+	margin-top: calc(-1 * var(--hex-size) / 7);
+}
+
+.winner .hex-back {
+	transform: scale(1.16);
+  opacity: 1;
+}
+
+/* ---- Hex Card Images ---- */
+
+.hex-front {
+  background-image: url('hex/RStudio.png');
+}
+
+.hex-back[data-logo="blogdown"] { background-image: url('hex/blogdown.png'); }
+.hex-back[data-logo="bookdown"] { background-image: url('hex/bookdown.png'); }
+.hex-back[data-logo="broom"] { background-image: url('hex/broom.png'); }
+.hex-back[data-logo="covr"] { background-image: url('hex/covr.png'); }
+.hex-back[data-logo="dbplot"] { background-image: url('hex/dbplot.png'); }
+.hex-back[data-logo="devtools"] { background-image: url('hex/devtools.png'); }
+.hex-back[data-logo="dplyr"] { background-image: url('hex/dplyr.png'); }
+.hex-back[data-logo="feather"] { background-image: url('hex/feather.png'); }
+.hex-back[data-logo="forcats"] { background-image: url('hex/forcats.png'); }
+.hex-back[data-logo="fs"] { background-image: url('hex/fs.png'); }
+.hex-back[data-logo="ggplot2"] { background-image: url('hex/ggplot2.png'); }
+.hex-back[data-logo="glue"] { background-image: url('hex/glue.png'); }
+.hex-back[data-logo="googledrive"] { background-image: url('hex/googledrive.png'); }
+.hex-back[data-logo="googlesheets"] { background-image: url('hex/googlesheets.png'); }
+.hex-back[data-logo="haven"] { background-image: url('hex/haven.png'); }
+.hex-back[data-logo="hms"] { background-image: url('hex/hms.png'); }
+.hex-back[data-logo="knitr"] { background-image: url('hex/knitr.png'); }
+.hex-back[data-logo="lobstr"] { background-image: url('hex/lobstr.png'); }
+.hex-back[data-logo="lubridate"] { background-image: url('hex/lubridate.png'); }
+.hex-back[data-logo="modeldb"] { background-image: url('hex/modeldb.png'); }
+.hex-back[data-logo="modelr"] { background-image: url('hex/modelr.png'); }
+.hex-back[data-logo="parsnip"] { background-image: url('hex/parsnip.png'); }
+.hex-back[data-logo="pipe"] { background-image: url('hex/pipe.png'); }
+.hex-back[data-logo="pkgdown"] { background-image: url('hex/pkgdown.png'); }
+.hex-back[data-logo="plumber"] { background-image: url('hex/plumber-female.png'); }
+.hex-back[data-logo="purrr"] { background-image: url('hex/purrr.png'); }
+.hex-back[data-logo="r2d3"] { background-image: url('hex/r2d3.png'); }
+.hex-back[data-logo="readr"] { background-image: url('hex/readr.png'); }
+.hex-back[data-logo="readxl"] { background-image: url('hex/readxl.png'); }
+.hex-back[data-logo="recipes"] { background-image: url('hex/recipes.png'); }
+.hex-back[data-logo="reprex"] { background-image: url('hex/reprex.png'); }
+.hex-back[data-logo="rlang"] { background-image: url('hex/rlang.png'); }
+.hex-back[data-logo="rmarkdown"] { background-image: url('hex/rmarkdown.png'); }
+.hex-back[data-logo="roxygen2"] { background-image: url('hex/roxygen2.png'); }
+.hex-back[data-logo="rsample"] { background-image: url('hex/rsample.png'); }
+.hex-back[data-logo="rvest"] { background-image: url('hex/rvest.png'); }
+.hex-back[data-logo="scales"] { background-image: url('hex/scales.png'); }
+.hex-back[data-logo="shiny"] { background-image: url('hex/shiny.png'); }
+.hex-back[data-logo="sparklyr"] { background-image: url('hex/sparklyr.png'); }
+.hex-back[data-logo="stringr"] { background-image: url('hex/stringr.png'); }
+.hex-back[data-logo="testthat"] { background-image: url('hex/testthat.png'); }
+.hex-back[data-logo="tibble"] { background-image: url('hex/tibble.png'); }
+.hex-back[data-logo="tidymodels"] { background-image: url('hex/tidymodels.png'); }
+.hex-back[data-logo="tidyposterior"] { background-image: url('hex/tidyposterior.png'); }
+.hex-back[data-logo="tidypredict"] { background-image: url('hex/tidypredict.png'); }
+.hex-back[data-logo="tidyr"] { background-image: url('hex/tidyr.png'); }
+.hex-back[data-logo="tidyverse"] { background-image: url('hex/tidyverse.png'); }
+.hex-back[data-logo="usethis"] { background-image: url('hex/usethis.png'); }
+.hex-back[data-logo="vctrs"] { background-image: url('hex/vctrs.png'); }
+.hex-back[data-logo="withr"] { background-image: url('hex/withr.png'); }
+.hex-back[data-logo="xaringan"] { background-image: url('hex/xaringan.png'); }
+.hex-back[data-logo="yardstick"] { background-image: url('hex/yardstick.png'); }
+.hex-back[data-logo="js4shiny"] { background-image: url('hex/js4shiny.png'); }
+
