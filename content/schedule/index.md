@@ -4,6 +4,10 @@ summary: "Overview of our 2-day schedule"  # Add a page description.
 date: "2019-01-01T00:00:00Z"  # Add today's date.
 ---
 
+## Continental Ballroom Room 6 (Ballroom Level)
+
+### Schedule
+
 We have a lot planned for our time together,
 so the _topics listed below provide a general overview_ and may change.
 The **times are certain** and fixed
