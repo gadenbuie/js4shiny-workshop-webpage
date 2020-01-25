@@ -14,6 +14,14 @@ type: post
 weight: 200
 ---
 
+### rstudio::conf Code of Conduct
+
+Please review the official [rstudio::conf Code of Conduct](https://web.cvent.com/event/36ebe042-0113-44f1-8e36-b9bc5d0733bf/websitePage:988cd046-614c-445b-b658-1c8d83ca82b0?RefId=homepage-top&mkt_tok=eyJpIjoiWXpGbVlXTTJNVEUzTm1WbSIsInQiOiJMS0ZSa1wvbmRpYmRyeklCcDZndjA5aDZ4Z2VMT1o0bitIczc0dlBSRUdrakxUVUNPZURGRGdobzUrc0h3RDVnNngyRDBSVjVCQ2pVTk4rRWdVQzE2ZzRSYkdCVTlsWWtHeW1HSDdlXC9DRHRTaWRhQmJMc0FtRVhraDJOOFhkTmVYIn0%3D).
+Any rule or procedure of the official conference code of conduct
+supercede the guidelines listed below.
+
+## Workshop Code Of Conduct
+
 All attendees, instructors, teaching assistants and volunteers at our wokrshop are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
 
 ### The Quick Version
