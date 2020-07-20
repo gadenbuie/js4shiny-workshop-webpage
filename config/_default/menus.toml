@@ -55,6 +55,11 @@
   weight = 36
 
 [[main]]
+  name = "Slides"
+  url = "slides/"
+  weight = 37
+
+[[main]]
   pre = "<i class=\"fas fa-box-open fa-lg\"></i>"
   name = "&nbsp;&nbsp;"
   url = "https://pkg.js4shiny.com"

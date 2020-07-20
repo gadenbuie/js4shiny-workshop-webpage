@@ -1,34 +1,12 @@
 ---
-title: Slides | JavaScript for Shiny Users
+title: Slides from JavaScript for Shiny Users
 author: Garrick Aden-Buie
-output: js4shiny::html_document_js
+toc: true
 ---
-
-```{r metathis, echo=FALSE}
-library(metathis)
-meta() %>%
-  meta_description('Slides for the "JavaScript for Shiny Users" workshop at rstudio::conf(2020)') %>%
-  meta_social(
-    title = "JavaScript for Shiny Users",
-    url = "https://js4shiny.com",
-    image = "https://slides.js4shiny.com/assets/img/js4shiny-preview.jpg",
-    image_alt = "Hex logo of the js4shiny workshop and package",
-    og_type = "website",
-    og_author = "Garrick Aden-Buie",
-    twitter_card_type = "summary",
-    twitter_creator = "@grrrck"
-  )
-```
 
 # JavaScript for Shiny Users
 
-1. [Welcome](welcome.html)
-
-1. [Breaks](break.html)
-
-1. [Work Time](working.html)
-
-1. [Extra Bits](extras.html)
+1. [Welcome to js4shiny](welcome.html)
 
 ## Monday, January 27
 
@@ -59,8 +37,6 @@ meta() %>%
 
 2. [Ghost in the Machine (JavaScript)](javascript.html)
 
----
-
 ## Tuesday, January 28
 
 ### Session 1 - 2
@@ -85,3 +61,11 @@ meta() %>%
         - [Debounce](extending.html#debounce)
 
 1. [Thank you](thank-you.html)
+
+## Extras
+
+1. [Breaks](break.html)
+
+1. [Work Time](working.html)
+
+1. [Extra Bits](extras.html)
