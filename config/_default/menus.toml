@@ -32,16 +32,17 @@
   url = "about#learning-objectives"
   weight = 40
   parent = "about"
+  
+[[main]]
+  name = "People"
+  url = "people"
+  weight = 50
+  parent = "about"
 
 [[main]]
   name = "Schedule"
   url = "schedule"
   weight = 30
-
-[[main]]
-  name = "People"
-  url = "people"
-  weight = 40
 
 [[main]]
   name = "Setup"
